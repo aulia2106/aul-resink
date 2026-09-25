@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aul Resink — Website Jual Beli Sparepart Variasi Motor
 
 Website slicing untuk tugas **Slicing Website Bebas**, dibuat oleh **Rizky Aulia Putri**.
@@ -51,3 +52,6 @@ Data produk dan proses login/registrasi pada versi ini bersifat **front-end only
 ---
 
 **Dibuat oleh:** Rizky Aulia Putri — 2026
+=======
+# aul-resink
+>>>>>>> 45edce817b0cdfdbe54d1f4145e148538f02a3b8
